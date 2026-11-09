@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <!-- Si solo tienes .NET 10 instalado, cambia a net10.0-windows -->
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Unidad6.Busquedas</RootNamespace>
+    <AssemblyName>Tarea_6.2_Busquedas</AssemblyName>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+
+</Project>
